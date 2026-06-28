@@ -1,7 +1,7 @@
 # Public Perception of AI Assistants: Anthropic vs. OpenAI
 
 A comparative sentiment analysis of 980 US App Store reviews for Claude and ChatGPT, collected May 1 to June 8, 2026.
-
+![Polarity Distribution](01_polarity_distribution.png)
 ## Problem
 
 Anthropic and OpenAI both publish AI assistant apps on the same App Store, but public sentiment toward them is rarely compared directly with real data. This analysis pulls reviews for both apps and applies lexicon based sentiment scoring, emotion classification, and keyword analysis to find where the two brands actually differ in how users talk about them.
